@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary / Scratch
+.qodo/
+*.png
+scratch/
